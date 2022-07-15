@@ -1,0 +1,27 @@
+[
+  {
+    "country": "Greenland",
+    "value": 7.6,
+    "adj_value": 11.81952
+  },
+  {
+    "country": "Canada",
+    "value": 144369.9,
+    "adj_value": 224524.0685
+  },
+  {
+    "country": "St Pierre and Miquelon",
+    "value": 3.4,
+    "adj_value": 5.28768
+  },
+  {
+    "country": "Mexico",
+    "value": 62100.4,
+    "adj_value": 96578.54208
+  },
+  {
+    "country": "Guatemala",
+    "value": 1526.8,
+    "adj_value": 2374.47936
+  }
+]
